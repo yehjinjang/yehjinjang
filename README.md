@@ -1,3 +1,3 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=모양&color=white&height=30&section=header&text=Welcome to Yehjin's Git&fontSize=30" />
+    <img src="https://capsule-render.vercel.app/api?type=bold&color=white&height=100&section=header&text=Welcome to Yehjin's Git&fontSize=100" />
 </div>
