@@ -1,5 +1,5 @@
 
-<div align=center><h2> TECH STACKS</h2></div>
+<div><h2> TECH STACKS</h2></div>
 
 <div>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
